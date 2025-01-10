@@ -39,7 +39,7 @@ const persons = [
     {
         id: 3,
         firstName: "George",
-        lastName: "Enescu",
+        lastName: "Enescu", 
         year: 1881,
     }
 ];
